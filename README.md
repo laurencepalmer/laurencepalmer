@@ -1,5 +1,5 @@
 ## Laurence Palmer 
-MSCS student @ USC. Likes sports. Working with the MCL lab on CV. 
+MSCS student @ USC. Interested in Computer Vision. Doing CV + green learning research @ USC MCL. Enjoys all sports. 
 
 <!--
 **laurencepalmer/laurencepalmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
